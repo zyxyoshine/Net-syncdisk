@@ -1,0 +1,4 @@
+192.168.1.254
+4005
+peetokhxnzuerciftzysaxndynzvnwyc
+/home/zhouyuxing/SyncTest2

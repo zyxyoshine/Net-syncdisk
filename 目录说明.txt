@@ -1,0 +1,19 @@
+﻿文件结构
+.
+├── Windows-Client                  - Windows客户端
+│   ├── build
+│   │   └── TMYClient.exe   - 已编译可执行文件
+│   ├── readme.txt          - 配置说明
+│   └── src                 - 源文件
+├── Server              - 服务器端
+│   ├── build
+│   │   └── tmy_server  - 已编译可执行文件
+│   ├── clear.sql       - 用于清楚文件表的Sql文件
+│   ├── G2652.sql       - 用于初始化数据库的Sql文件
+│   ├── readme.txt      - 配置说明
+│   └── src             - 源文件
+├── Ubuntu-Client       - Ubuntu客户端
+│   ├── TMYClient       - 已编译可执行文件
+│   ├── readme.txt          - 配置说明
+│   └── src                 - 源文件
+└── 网络同步盘报告.pdf
