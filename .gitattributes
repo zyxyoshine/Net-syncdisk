@@ -16,7 +16,7 @@
 *.rtf	 diff=astextplain
 *.RTF	 diff=astextplain
 
-*.html   diff=astextplain
-*.cmake  diff=astextplain
+*.html   linguist-language=astextplain
+*.cmake  linguist-language=astextplain
 
 
